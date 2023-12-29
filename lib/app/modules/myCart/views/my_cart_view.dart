@@ -41,7 +41,7 @@ class MyCartView extends GetView<MyCartController> {
                       Get.toNamed(Routes.ORDER_CHECK_OUT);
                     },
                     child: Container(
-                        width: Get.width,height: 40,
+                        width: Get.width,height: 35,
                         alignment: Alignment.center,
                         decoration: BoxDecoration(
                             color: Colors.green,
