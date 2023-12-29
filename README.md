@@ -1,7 +1,7 @@
 # e_demo_app
  e-commerace app demo
 
- <img src="https://i.ibb.co/Bg4hH1T/e10.png" alt="e10" border="0">
+ <img src="https://i.ibb.co/Bg4hH1T/e10.png" alt="e10" border="0" height=600 weight=400>
 <img src="https://i.ibb.co/ngP9xG2/e9.png" alt="e9" border="0">
 <img src="https://i.ibb.co/Pt9GrN1/e8.png" alt="e8" border="0">
 <img src="https://i.ibb.co/nrFwddL/e7.png" alt="e7" border="0">
